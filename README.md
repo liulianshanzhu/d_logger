@@ -39,8 +39,8 @@ L.w(json3, isJson: true);
 L.w(json4, isJson: true);
 ```
 **Android Studio Run Console results**
-![logger](images/normal.png)
-![logger](images/error.png)
-![logger](images/tag.png)
-![logger](images/json.png)
-![logger](images/json2.png)
+![logger](https://github.com/liulianshanzhu/d_logger/blob/master/images/normal.png)
+![logger](https://github.com/liulianshanzhu/d_logger/blob/master/images/error.png)
+![logger](https://github.com/liulianshanzhu/d_logger/blob/master/images/tag.png)
+![logger](https://github.com/liulianshanzhu/d_logger/blob/master/images/json.png)
+![logger](https://github.com/liulianshanzhu/d_logger/blob/master/images/json2.png)

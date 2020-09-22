@@ -1,7 +1,8 @@
 name: d_logger
 description: logger - formatted output,including but not limited to json.
-version: 0.1.0
+version: 0.1.1
 homepage: https://github.com/liulianshanzhu
+repository: https://github.com/liulianshanzhu/d_logger
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
